@@ -1,4 +1,4 @@
 function gazo610() {
     document.getElementById('who610').innerHTML =
-    './image/red.jpg';
+    '<img src="./image/red.jpg" alt="red">';
 }
